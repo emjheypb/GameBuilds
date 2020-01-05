@@ -1,0 +1,16 @@
+{
+"companyName": "Spaced Out",
+"productName": "Text 101",
+"productVersion": "0.1",
+"dataUrl": "WebGL - Text 101.data.unityweb",
+"wasmCodeUrl": "WebGL - Text 101.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL - Text 101.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
